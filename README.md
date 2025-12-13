@@ -42,13 +42,14 @@ This object fills a predicted gap in the heliospheric resonance lattice, serving
 ## 📁 Repository Structure
 
 ```
-├── EnGeL_v15_ammonite.pdf    # Main paper (Version 15.0 - Ammonite)
-├── EnGeL_v15_FINAL.tex       # LaTeX source
-├── figures/                   # All figures and visualizations
-│   ├── oort_barcode.png
-│   ├── ammonite_node.png
+├── EnGeL_Theory_Paper.pdf.pdf    # Main paper (Version 15.0 - Ammonite)
+├── EnGeL_Theory_Paper.pdf.tex       # LaTeX source
+├── images/                   # All figures and visualizations
+│   ├── engel_barcode.png
+│   ├── engel_structure.png
 │   └── ...
-└── data/                      # Supporting data and analysis scripts
+└── data/                      # Supporting data  
+└──code/                       # Analysis scripts
 ```
 
 ##  Observational Confirmations
