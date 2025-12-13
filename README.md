@@ -8,7 +8,7 @@ A theoretical framework proposing that the Universe operates as a coherence fiel
 
 ---
 
-## 🌌 Overview
+##  Overview
 
 EnGeΛ (Entangled Geometry Λ) reanalyzes existing observational data through a unified geometric lens, revealing quantitative correlations linking phenomena across 60+ orders of magnitude in spatial scale:
 
@@ -17,7 +17,7 @@ EnGeΛ (Entangled Geometry Λ) reanalyzes existing observational data through a 
 - **Planetary**: Earth's 8.5-year inner core wobble, trans-Neptunian object distribution
 - **Biological**: Circadian rhythm compression, abiogenesis conditions
 
-## 🔑 Key Parameters
+##  Key Parameters
 
 | Parameter | Value | Interpretation |
 |-----------|-------|----------------|
@@ -29,7 +29,7 @@ EnGeΛ (Entangled Geometry Λ) reanalyzes existing observational data through a 
 
 The coherence deficit `(1 − η) ≈ 0.68` corresponds numerically to the dark energy density parameter `Ω_Λ ≈ 0.68`.
 
-## 🦑 The Ammonite Prediction
+##  The Ammonite Prediction
 
 The framework's predictive validity is demonstrated by the discovery of **2023 KQ14** ("Ammonite") from the FOSSIL survey:
 
@@ -39,16 +39,16 @@ The framework's predictive validity is demonstrated by the discovery of **2023 K
 
 This object fills a predicted gap in the heliospheric resonance lattice, serving as a "standard candle" for the EnGeΛ metric.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── EnGeL_v16.pdf              # Main paper (Version 16.0)
-├── EnGeL_v16.tex              # LaTeX source
-├── figures/                   # All figures and visualizations
+├──  images/                   # All figures and visualizations
 │   ├── oort_barcode.png
 │   ├── ammonite_node.png
 │   └── ...
-└── data/                      # Supporting data and analysis scripts
+└── data/                     # Supporting data
+└── code/                     # analysis scripts
 ```
 
 ## 📊 Observational Confirmations
@@ -60,14 +60,14 @@ This object fills a predicted gap in the heliospheric resonance lattice, serving
 | Quasar alignment | Random | p < 1% | Filament spin ✓ |
 | Earth ICW period | Chaotic | 8.5 ± 0.5 yr | K_ideal-scaled ✓ |
 
-## 🔮 Testable Predictions
+##  Testable Predictions
 
 - **Euclid**: Weak lensing power excess at k ~ 0.1 h/Mpc (2025–2030)
 - **TDE monitoring**: >30% delayed/periodic events in systematic surveys
 - **CMB-S4**: E-mode polarization correlation with temperature axis
 - **LSST**: TNO clustering at Fibonacci lattice nodes (n = 23, 46, 55, 89, 144...)
 
-## 📖 Citation
+##  Citation
 
 ```bibtex
 @article{wayehiaor2025engel,
