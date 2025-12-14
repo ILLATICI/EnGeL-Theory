@@ -96,7 +96,4 @@ Independent Researcher
 
 ## License
 
-This work is licensed under License
-cc-by-4.0 icon
-Creative Commons Attribution 4.0 International
-MIT License
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
