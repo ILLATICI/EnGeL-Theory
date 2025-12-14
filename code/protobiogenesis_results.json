@@ -1,0 +1,183 @@
+{
+  "parameter_tests": [
+    {
+      "test": 1,
+      "modifications": {
+        "noise_level": 0.5,
+        "membrane_leak": 0.3
+      },
+      "no_field_success": 0.994,
+      "field_success": 0.998,
+      "improvement": 0.0040000000000000036,
+      "no_field_coherence": 1.3291562695810573,
+      "field_coherence": 1.3313727104575463,
+      "no_field_fidelity": 0.9709000000000001,
+      "field_fidelity": 0.9771857858701269
+    },
+    {
+      "test": 2,
+      "modifications": {
+        "energy_grad": 0.5
+      },
+      "no_field_success": 1.0,
+      "field_success": 1.0,
+      "improvement": 0.0,
+      "no_field_coherence": 1.1654636974973478,
+      "field_coherence": 1.1657150477789546,
+      "no_field_fidelity": 0.9709000000000001,
+      "field_fidelity": 0.9771857858701269
+    },
+    {
+      "test": 3,
+      "modifications": {
+        "base_error_rate": 0.035,
+        "crit_error_threshold": 0.04
+      },
+      "no_field_success": 0.0,
+      "field_success": 1.0,
+      "improvement": 1.0,
+      "no_field_coherence": 1.4675934521896077,
+      "field_coherence": 1.4693116544505975,
+      "no_field_fidelity": 0.949075,
+      "field_fidelity": 0.960075125272722
+    },
+    {
+      "test": 4,
+      "modifications": {
+        "noise_level": 0.4,
+        "energy_grad": 0.6,
+        "base_error_rate": 0.03
+      },
+      "no_field_success": 0.0,
+      "field_success": 0.968,
+      "improvement": 0.968,
+      "no_field_coherence": 1.177005640103467,
+      "field_coherence": 1.181986181239174,
+      "no_field_fidelity": 0.9563500000000004,
+      "field_fidelity": 0.9657786788051902
+    }
+  ],
+  "eta_analysis": [
+    {
+      "eta": 0.1,
+      "success_rate": 0.98,
+      "coherence": 1.1426043032210627,
+      "fidelity": 0.9657997788074135,
+      "invariant": 0.011037699955338263
+    },
+    {
+      "eta": 0.2,
+      "success_rate": 0.975,
+      "coherence": 1.142622183837991,
+      "fidelity": 0.9657991152296538,
+      "invariant": 0.002759468171101491
+    },
+    {
+      "eta": 0.32,
+      "success_rate": 0.965,
+      "coherence": 1.137865253296964,
+      "fidelity": 0.9657786788051902,
+      "invariant": 0.0010734297014265764
+    },
+    {
+      "eta": 0.4,
+      "success_rate": 0.98,
+      "coherence": 1.1438274409987261,
+      "fidelity": 0.965749092497561,
+      "invariant": 0.0006905947261745314
+    },
+    {
+      "eta": 0.5,
+      "success_rate": 0.975,
+      "coherence": 1.1415695332294558,
+      "fidelity": 0.9657944701853345,
+      "invariant": 0.00044110815793492854
+    },
+    {
+      "eta": 0.618,
+      "success_rate": 0.985,
+      "coherence": 1.145588607939284,
+      "fidelity": 0.9656357621242543,
+      "invariant": 0.00028975735253377786
+    },
+    {
+      "eta": 0.7,
+      "success_rate": 0.965,
+      "coherence": 1.1398433499993244,
+      "fidelity": 0.9655858384367447,
+      "invariant": 0.00022471487353597683
+    },
+    {
+      "eta": 0.9,
+      "success_rate": 0.98,
+      "coherence": 1.1383652321472981,
+      "fidelity": 0.9644320834004836,
+      "invariant": 0.0001357623456866246
+    }
+  ],
+  "period_analysis": [
+    {
+      "name": "Earth",
+      "periods": [
+        1.0,
+        29.5,
+        365.25
+      ],
+      "success_rate": 1.0,
+      "T_internal": 13.508266666666666,
+      "invariant": 0.09289284545213515
+    },
+    {
+      "name": "Mars",
+      "periods": [
+        1.03,
+        30.5,
+        687.0
+      ],
+      "success_rate": 1.0,
+      "T_internal": 24.525824,
+      "invariant": 0.05084737180163582
+    },
+    {
+      "name": "Solar22",
+      "periods": [
+        1.0,
+        365.25,
+        8030.0
+      ],
+      "success_rate": 1.0,
+      "T_internal": 286.59200000000004,
+      "invariant": 0.004384169253766573
+    },
+    {
+      "name": "EnGeL_node",
+      "periods": [
+        1.0,
+        29.5,
+        3102.5
+      ],
+      "success_rate": 1.0,
+      "T_internal": 106.93973333333334,
+      "invariant": 0.011752657481348265
+    }
+  ],
+  "best_eta": {
+    "eta": 0.618,
+    "success_rate": 0.985,
+    "coherence": 1.145588607939284,
+    "fidelity": 0.9656357621242543,
+    "invariant": 0.00028975735253377786
+  },
+  "best_periods": {
+    "name": "Earth",
+    "periods": [
+      1.0,
+      29.5,
+      365.25
+    ],
+    "success_rate": 1.0,
+    "T_internal": 13.508266666666666,
+    "invariant": 0.09289284545213515
+  },
+  "average_improvement": 0.493
+}
