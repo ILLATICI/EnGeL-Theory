@@ -8,7 +8,7 @@
 
 ---
 
-## 🌌 Core Concepts
+##  Core Concepts
 
 The project unifies observational data from quantum scales to the cosmic web through a single geometric law:
 
@@ -21,7 +21,7 @@ Where:
 
 ---
 
-## 🧬 Biogenesis: The Golden Window
+##  Biogenesis: The Golden Window
 
 A Monte Carlo simulation was conducted to test the conditions for the origin of life. We compared the modern environment ($\eta=0.32$, 24h day) with Archean conditions ($\eta=0.618$, 12h day, strong tidal forces).
 
@@ -35,7 +35,7 @@ A Monte Carlo simulation was conducted to test the conditions for the origin of 
 
 ---
 
-## 🔭 Astrophysical Evidence
+##  Astrophysical Evidence
 
 ### 1. The "Ammonite" Prediction (2023 KQ14)
 An object filling the predicted gap in the Solar System's resonant lattice:
@@ -63,4 +63,5 @@ The observed star formation efficiency ($\epsilon \sim 0.3-0.5$) exceeds $\Lambd
 ## 📬 Contact & Citation
 
 **Aletheia Wayehiaor** Independent Researcher  
+
 📧 aletheia.wayehiaor@gmail.com
