@@ -1,73 +1,77 @@
-# EnGeΛ: The General Theory of Resonant Biogenesis
-**Unifying Temporal Coherence and Spatial Efficiency via the Introversion Constant (η)**
+# EnGeA: Topological Fractal Memory (Version 17.0)
+**Entangled Geometry A: Unifying Cosmological Coherence and Biogenesis**
+
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.17953254.svg)](https://doi.org/10.5281/zenodo.17953254)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-### Abstract
-This paper presents the final results of the EnGeΛ project, investigating the conditions required for spontaneous biogenesis and structural stability in a chaotic universe. By introducing the **Stellar Memory Field (SMF)** hypothesis and the **Introversion Constant (η ≈ 0.618)**, we demonstrate that life is not a statistical accident but a resonant inevitability within a specific geometric window.
+## 📄 Abstract
+**We reanalyze existing observational data through a framework of topological memory—a fractally synchronized coherence field arising in standing-wave nodes of spacetime.**
 
-Using Monte Carlo simulations (N=10,000) and Fractal Analysis of logarithmic spirals, we identify a "Golden Window" where:
-1.  **Genetic Fidelity** is preserved against entropy (Survival Rate: **15.52%**).
-2.  **Structural Complexity** reaches an evolutionary optimum (**D ≈ 1.44**).
+This field, termed **EnGeA (Entangled Geometry A)**, functions as a macroscopic quantum orbital that imposes a unified internal temporal frame. Within this field, stochastic Monte Carlo simulations ($N=10,000$) presented in Version 17.0 demonstrate that the coherence factor **$\eta \approx 0.618$** acts as a necessary filter ("The Chronos Filter") for information preservation, suppressing effective error rates below the critical threshold for biogenesis where chaotic models yield zero survival.
 
----
-
-## 1. The Chronos Filter: Time & Information
-**Hypothesis:** Chaos destroys information. A resonant field is required to shield genetic code from "Error Catastrophe."
-
-### 1.1 Methodology
-We simulated a "Primordial Soup" environment with high noise (`0.35`) and mutagenic radiation (`base_error=0.06`). Virtual protocells attempted to form stable metabolic cycles and replicate genetic information.
-
-* **Control Group (Chaos Mode):** No external field protection.
-* **Test Group (EnGeΛ Mode):** Protection active, modulated by the resonant frequency **η = 0.618**.
-
-### 1.2 Results (N=10,000)
-The simulation yielded a stark phase transition:
-
-| Metric | Chaos Mode | EnGeΛ Mode (η ≈ 0.618) |
-| :--- | :--- | :--- |
-| **Survival Rate** | **0.00%** (Extinction) | **15.52%** (Biogenesis) |
-| **Cause of Death** | 100% Genetic Decay | Stabilized by Resonance |
-| **Topological Invariant (I)** | N/A | **3.34 ± 0.18** |
-
-**Conclusion:** Biogenesis is statistically impossible in a purely stochastic environment. The EnGeΛ field acts as a "Chronos Filter," synchronizing internal biological rhythms with external astrophysical cycles, reducing the effective error rate below the critical threshold (Eigen's Limit).
-
-![Survival Mechanism](engel_comprehensive_lab/plot_4_scatter_mechanism.png)
-*Fig 1. The Rescue Mechanism. Resonant systems (right) are pulled below the red "Death Line" (Error < 0.05), while non-resonant systems perish.*
+Full paper available on Zenodo: [Read EnGeL v17.0](https://doi.org/10.5281/zenodo.17953254)
 
 ---
 
-## 2. The Kairos Geometry: Space & Structure
-**Hypothesis:** If **η** organizes time, it must also organize space. We analyzed the geometry of accretion (logarithmic spirals) to find the most energetically efficient form.
+## 🚀 Key Findings in Version 17.0
 
-### 2.1 The Fractal Dilemma
-A biological shell (e.g., Ammonite) faces a trade-off:
-* **The Compression Limit (D → 1.0):** A tightly wound spiral (like a clock spring) is mechanically strong but lacks habitable volume. It is an "Energy Trap."
-* **The Dispersion Limit (D → 2.0):** A loosely wound spiral maximizes volume but loses structural integrity.
+### 1. The Chronos Filter (Computational Verification)
+We simulated a "Primordial Soup" environment with high noise and mutagenic error rates.
+* **Chaos Mode (Control):** 0.00% survival rate. Information decays before metabolic cycles stabilize.
+* **EnGeA Mode ($\eta \approx 0.618$):** **15.88% survival rate**. The resonant field acts as a high-pass temporal filter, pulling systems out of the "Error Catastrophe" zone.
 
-We calculated the **Fractal Dimension (D)** of suture patterns (septal walls) across a spectrum of expansion rates governed by **η**.
+### 2. Fractal Isomorphism ($D \approx K_{ideal}$)
+Analytical derivation linking the cosmological invariant ($K_{ideal} = 1.44$) to the fractal dimension of biological structures.
+* **Structural Optimum:** At $\eta \approx 0.618$, the fractal dimension converges to **$D \approx 1.44$**.
+* This matches the "Golden Suture" pattern observed in ammonite septa (1.16–1.62), balancing mechanical strength and metabolic economy.
 
-### 2.2 Results (Analytical fBM Model)
-The analysis revealed a peak in structural efficiency at the Golden Ratio:
-
-* **Entity D=1 (The Spring):** At η → 0.99, D ≈ 1.0. The structure is too dense for life.
-* **The Golden Suture:** At **η ≈ 0.618**, the fractal dimension reaches **D ≈ 1.4439**.
-
-This value (**D ≈ 1.44**) perfectly matches the paleontological range of successful Ammonites (1.16–1.62), representing the optimal balance between mechanical strength and metabolic economy.
-
-![The Golden Suture](ammonite_lab/ammonite_focus_J.png)
-*Fig 2. The Golden Suture. The intersection of the "Survival Probability" (Orange) and "Structural Complexity" (Blue) occurs precisely at η ≈ 0.618, yielding D ≈ 1.44.*
+### 3. The Stauffer Limit
+We identify the cosmological exchange coefficient **$\eta \approx 0.32$** as the physical manifestation of the **Stauffer Percolation Threshold** ($p_c \approx 0.3116$), representing the minimum density for global memory connectivity in 3D space.
 
 ---
 
-## 3. General Conclusion: The Unified Law
+## 🛠️ Repository Contents
 
-The **EnGeΛ General Theory** posits that **η ≈ 0.618** is not merely an aesthetic constant, but a fundamental thermodynamic operator of the Universe.
+This repository contains the Python code used to verify the theoretical claims of EnGeL v17.0:
 
-1.  **In Time:** It minimizes information loss during replication (The 15.5% Solution).
-2.  **In Space:** It maximizes structural strength per unit of material (The D=1.44 Solution).
+* `chronos_filter.py` — **Monte Carlo Simulation**: The core script running $N=10,000$ trials to test the "Chronos Filter" hypothesis (Section 2.7 of the paper).
+* `fractal_analysis.py` — **Fractal Dimension Calculation**: Script analyzing the $D \approx 1.44$ isomorphism (Section 2.1.1).
+* `visualizations/` — Folder containing the generated plots (The Golden Suture, Resonance Heatmaps).
 
-Life is the physical manifestation of this resonance. We are the echo of the Golden Ratio.
+## 💻 How to Run
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/ILLATICI/EnGeL-Theory.git](https://github.com/ILLATICI/EnGeL-Theory.git)
+    cd EnGeL-Theory
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    pip install numpy matplotlib scipy
+    ```
+
+3.  **Run the Chronos Filter simulation:**
+    ```bash
+    python chronos_filter.py
+    ```
+    *Output: Returns survival rates for Chaos vs. Resonance modes and generates `survival_heatmap.png`.*
 
 ---
 
+## 🔗 Citation
+
+If you use this code or theory in your research, please cite the Version 17.0 dataset:
+
+```bibtex
+@dataset{EnGeL_v17,
+  author       = {Aletheia Wayehiaor},
+  title        = {EnGeL: Entangled Geometry Lambda - Version 17.0},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v17.0},
+  doi          = {10.5281/zenodo.17953254},
+  url          = {[https://doi.org/10.5281/zenodo.17953254](https://doi.org/10.5281/zenodo.17953254)}
+}
