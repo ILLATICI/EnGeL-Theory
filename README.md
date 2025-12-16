@@ -1,4 +1,4 @@
-# EnGeA: Topological Fractal Memory (Version 17.0)
+# EnGeA: Topological Fractal Memory (Version 17.0) 
 **Entangled Geometry A: Unifying Cosmological Coherence and Biogenesis**
 
 [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.17953254.svg)](https://doi.org/10.5281/zenodo.17953254)
@@ -15,7 +15,7 @@ Full paper available on Zenodo: [Read EnGeL v17.0](https://doi.org/10.5281/zenod
 
 ---
 
-## 🚀 Key Findings in Version 17.0
+##  Key Findings in Version 17.0
 
 ### 1. The Chronos Filter (Computational Verification)
 We simulated a "Primordial Soup" environment with high noise and mutagenic error rates.
@@ -32,7 +32,7 @@ We identify the cosmological exchange coefficient **$\eta \approx 0.32$** as the
 
 ---
 
-## 🛠️ Repository Contents
+##  Repository Contents
 
 This repository contains the Python code used to verify the theoretical claims of EnGeL v17.0:
 
@@ -40,7 +40,7 @@ This repository contains the Python code used to verify the theoretical claims o
 * `fractal_analysis.py` — **Fractal Dimension Calculation**: Script analyzing the $D \approx 1.44$ isomorphism (Section 2.1.1).
 * `visualizations/` — Folder containing the generated plots (The Golden Suture, Resonance Heatmaps).
 
-## 💻 How to Run
+##  How to Run
 
 1.  **Clone the repository:**
     ```bash
@@ -75,3 +75,4 @@ If you use this code or theory in your research, please cite the Version 17.0 da
   doi          = {10.5281/zenodo.17953254},
   url          = {[https://doi.org/10.5281/zenodo.17953254](https://doi.org/10.5281/zenodo.17953254)}
 }
+
