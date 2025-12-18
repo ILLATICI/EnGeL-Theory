@@ -18,7 +18,7 @@ Version 18 transforms the theory from a descriptive model into an existential im
 
 ---
 
-## 📄 Abstract & Theoretical Framework
+##  Abstract & Theoretical Framework
 
 EnGeΛ (Entangled Geometry Lambda) is a unified coherence field framework proposing that the Universe organizes matter via a topological standing wave ($\eta \approx 0.32$). [cite_start]This field dictates structure across 60 orders of magnitude—from the "Axis of Evil" in the CMB to the circadian rhythms of biological cells[cite: 3, 23].
 
@@ -41,3 +41,4 @@ EnGeΛ (Entangled Geometry Lambda) is a unified coherence field framework propos
 
 **Permanent Link (Zenodo):**
 https://doi.org/10.5281/zenodo.17971119
+
