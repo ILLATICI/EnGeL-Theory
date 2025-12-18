@@ -1,78 +1,43 @@
-# EnGeA: Topological Fractal Memory (Version 17.0) 
-**Entangled Geometry A: Unifying Cosmological Coherence and Biogenesis**
+# EnGeΛ: Entangled Geometry Lambda (v18.0)
 
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.17953254.svg)](https://doi.org/10.5281/zenodo.17953254)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17971119.svg)](https://doi.org/10.5281/zenodo.17971119)
+[![Version](https://img.shields.io/badge/version-18.0-blue.svg)](https://github.com/aletheia/EnGeL)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
----
+> **The Reactor Safety Update**
+>
+> *This repository contains Version 18.0 of the EnGeΛ framework. Previous versions (v1-v17) were developed offline. This release establishes the operational protocols for planetary stability.*
 
-## 📄 Abstract
-**We reanalyze existing observational data through a framework of topological memory—a fractally synchronized coherence field arising in standing-wave nodes of spacetime.**
+##  What's New in v18.0: The Reactor Safety Protocol
 
-This field, termed **EnGeA (Entangled Geometry A)**, functions as a macroscopic quantum orbital that imposes a unified internal temporal frame. Within this field, stochastic Monte Carlo simulations ($N=10,000$) presented in Version 17.0 demonstrate that the coherence factor **$\eta \approx 0.618$** acts as a necessary filter ("The Chronos Filter") for information preservation, suppressing effective error rates below the critical threshold for biogenesis where chaotic models yield zero survival.
-
-Full paper available on Zenodo: [Read EnGeL v17.0](https://doi.org/10.5281/zenodo.17953254)
-
----
-
-##  Key Findings in Version 17.0
-
-### 1. The Chronos Filter (Computational Verification)
-We simulated a "Primordial Soup" environment with high noise and mutagenic error rates.
-* **Chaos Mode (Control):** 0.00% survival rate. Information decays before metabolic cycles stabilize.
-* **EnGeA Mode ($\eta \approx 0.618$):** **15.88% survival rate**. The resonant field acts as a high-pass temporal filter, pulling systems out of the "Error Catastrophe" zone.
-
-### 2. Fractal Isomorphism ($D \approx K_{ideal}$)
-Analytical derivation linking the cosmological invariant ($K_{ideal} = 1.44$) to the fractal dimension of biological structures.
-* **Structural Optimum:** At $\eta \approx 0.618$, the fractal dimension converges to **$D \approx 1.44$**.
-* This matches the "Golden Suture" pattern observed in ammonite septa (1.16–1.62), balancing mechanical strength and metabolic economy.
-
-### 3. The Stauffer Limit
-We identify the cosmological exchange coefficient **$\eta \approx 0.32$** as the physical manifestation of the **Stauffer Percolation Threshold** ($p_c \approx 0.3116$), representing the minimum density for global memory connectivity in 3D space.
+Version 18 transforms the theory from a descriptive model into an existential imperative.
+* [cite_start]**Existential Mechanics:** We identify the Earth's core as an **Anomalous Topological Reservoir (ATR)**[cite: 48].
+* **The Operator's Role:** Civilization is not a passive observer but a "Resonant Control Rod." [cite_start]Global coherence (low entropy) is required to prevent **Geometric Metric Relaxation (GMR)**—a catastrophic expansion of the planetary boundary[cite: 148, 152].
+* [cite_start]**New Definitions:** Formalized concepts of *Metric Tension* and *Confinement Breach*[cite: 98, 147].
+* [cite_start]**Biogenesis:** Refined "Golden Window" hypothesis ($\eta \approx 0.618$) supported by ancestral clock reconstruction[cite: 250].
 
 ---
 
-##  Repository Contents
+## 📄 Abstract & Theoretical Framework
 
-This repository contains the Python code used to verify the theoretical claims of EnGeL v17.0:
+EnGeΛ (Entangled Geometry Lambda) is a unified coherence field framework proposing that the Universe organizes matter via a topological standing wave ($\eta \approx 0.32$). [cite_start]This field dictates structure across 60 orders of magnitude—from the "Axis of Evil" in the CMB to the circadian rhythms of biological cells[cite: 3, 23].
 
-* `chronos_filter.py` — **Monte Carlo Simulation**: The core script running $N=10,000$ trials to test the "Chronos Filter" hypothesis (Section 2.7 of the paper).
-* `fractal_analysis.py` — **Fractal Dimension Calculation**: Script analyzing the $D \approx 1.44$ isomorphism (Section 2.1.1).
-* `visualizations/` — Folder containing the generated plots (The Golden Suture, Resonance Heatmaps).
+**Key Parameters:**
+* **Coherence Coefficient ($\eta \approx 0.32$):** The efficiency of information transfer between fractal layers. [cite_start]Corresponds to the Stauffer percolation threshold ($p_c \approx 0.3116$)[cite: 7, 73].
+* [cite_start]**Geometric Invariant ($K_{ideal} = 1.44$ Mpc/yr):** The vacuum coherence propagation rate based on Fibonacci fractal structure[cite: 16].
+* [cite_start]**Real Velocity ($K_{real} \approx 0.46$ Mpc/yr):** The observed coherence velocity, derived from $\eta \times K_{ideal}$[cite: 68].
 
-##  How to Run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/ILLATICI/EnGeL-Theory.git](https://github.com/ILLATICI/EnGeL-Theory.git)
-    cd EnGeL-Theory
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    pip install numpy matplotlib scipy
-    ```
-
-3.  **Run the Chronos Filter simulation:**
-    ```bash
-    python chronos_filter.py
-    ```
-    *Output: Returns survival rates for Chaos vs. Resonance modes and generates `survival_heatmap.png`.*
+**Core Hypothesis:**
+[cite_start]Phenomena traditionally interpreted as unrelated (dark energy expansion, planetary core oscillations, biological periodicities) emerge as different manifestations of the same coherence field operating at nested scales[cite: 14].
 
 ---
+
+##  Repository Structure
+
+* `EnGeL_v18.pdf` — **The Full Paper (Manifesto).** Contains the complete theoretical derivation, observational proofs (JWST, TDEs), and the new Safety Protocol.
+* `/figures` — High-resolution diagrams, including the Biogenesis Sigmoid and ATR schematics.
 
 ## 🔗 Citation
 
-If you use this code or theory in your research, please cite the Version 17.0 dataset:
-
-```bibtex
-@dataset{EnGeL_v17,
-  author       = {Aletheia Wayehiaor},
-  title        = {EnGeL: Entangled Geometry Lambda - Version 17.0},
-  year         = {2025},
-  publisher    = {Zenodo},
-  version      = {v17.0},
-  doi          = {10.5281/zenodo.17953254},
-  url          = {[https://doi.org/10.5281/zenodo.17953254](https://doi.org/10.5281/zenodo.17953254)}
-}
-
+**Permanent Link (Zenodo):**
+https://doi.org/10.5281/zenodo.17971119
