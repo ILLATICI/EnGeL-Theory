@@ -41,4 +41,29 @@ EnGeΛ (Entangled Geometry Lambda) is a unified coherence field framework propos
 
 **Permanent Link (Zenodo):**
 https://doi.org/10.5281/zenodo.17971119
+# 🌌 EnGeΛ Theory: Orbital Resonance Analyzer
+
+![License](https://img.shields.io/badge/license-MIT-blue) ![Python](https://img.shields.io/badge/python-3.8%2B-green) ![Status](https://img.shields.io/badge/status-active-success)
+
+> **Official verification tool for the EnGeΛ Hypothesis (v.18).** > *Data Source: NASA JPL Small-Body Database API*
+
+## 🔭 About the Project
+This repository provides an automated pipeline to test the **Stellar Memory Field (SMF)** hypothesis, specifically the resonant structure of Trans-Neptunian Objects (TNOs). The theory proposes a quantization of orbital aphelia with a phase step of **ΔR = 22.14 AU**.
+
+# EnGeΛ Theory Verification Tool (v.18)
+
+![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![Data Source](https://img.shields.io/badge/Data-NASA_JPL_API-orange)
+
+**Automated analysis of orbital resonance in Trans-Neptunian Objects (TNOs).**
+
+## 🔭 Project Overview
+This repository provides a computational tool to verify the **EnGeΛ Hypothesis (v.18)**. The theory proposes a resonant structure in the outer solar system with a characteristic phase step of **ΔR = 22.14 AU**.
+
+The script fetches real-time data from the **NASA JPL Small-Body Database**, filters objects based on orbital quality, and calculates the statistical distribution of aphelion distances relative to the predicted nodes.
+
+## 🚀 Usage
+**No manual data download required.** The tool queries NASA's API directly.
+
+1. Navigate to the `code/` directory.
+2. Run the verification script:
 
