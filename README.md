@@ -66,4 +66,6 @@ The script fetches real-time data from the **NASA JPL Small-Body Database**, fil
 
 1. Navigate to the `code/` directory.
 2. Run the verification script:
+```bash
+   python code/engel_verification_v18.py
 
