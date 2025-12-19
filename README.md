@@ -41,7 +41,7 @@ EnGeΛ (Entangled Geometry Lambda) is a unified coherence field framework propos
 
 **Permanent Link (Zenodo):**
 https://doi.org/10.5281/zenodo.17971119
-# 🌌 EnGeΛ Theory: Orbital Resonance Analyzer
+#  EnGeΛ Theory: Orbital Resonance Analyzer
 
 ![License](https://img.shields.io/badge/license-MIT-blue) ![Python](https://img.shields.io/badge/python-3.8%2B-green) ![Status](https://img.shields.io/badge/status-active-success)
 
@@ -61,11 +61,12 @@ This repository provides a computational tool to verify the **EnGeΛ Hypothesis 
 
 The script fetches real-time data from the **NASA JPL Small-Body Database**, filters objects based on orbital quality, and calculates the statistical distribution of aphelion distances relative to the predicted nodes.
 
-## 🚀 Usage
+##  Usage
 **No manual data download required.** The tool queries NASA's API directly.
 
 1. Navigate to the `code/` directory.
 2. Run the verification script:
 ```bash
    python code/engel_verification_v18.py
+
 
