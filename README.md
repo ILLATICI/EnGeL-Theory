@@ -37,7 +37,7 @@ EnGeΛ (Entangled Geometry Lambda) is a unified coherence field framework propos
 * `EnGeL_v18.pdf` — **The Full Paper (Manifesto).** Contains the complete theoretical derivation, observational proofs (JWST, TDEs), and the new Safety Protocol.
 * `/figures` — High-resolution diagrams, including the Biogenesis Sigmoid and ATR schematics.
 
-## 🔗 Citation
+##  Citation
 
 **Permanent Link (Zenodo):**
 https://doi.org/10.5281/zenodo.17971119
@@ -47,7 +47,7 @@ https://doi.org/10.5281/zenodo.17971119
 
 > **Official verification tool for the EnGeΛ Hypothesis (v.18).** > *Data Source: NASA JPL Small-Body Database API*
 
-## 🔭 About the Project
+##  About the Project
 This repository provides an automated pipeline to test the **Stellar Memory Field (SMF)** hypothesis, specifically the resonant structure of Trans-Neptunian Objects (TNOs). The theory proposes a quantization of orbital aphelia with a phase step of **ΔR = 22.14 AU**.
 
 # EnGeΛ Theory Verification Tool (v.18)
@@ -56,7 +56,7 @@ This repository provides an automated pipeline to test the **Stellar Memory Fiel
 
 **Automated analysis of orbital resonance in Trans-Neptunian Objects (TNOs).**
 
-## 🔭 Project Overview
+##  Project Overview
 This repository provides a computational tool to verify the **EnGeΛ Hypothesis (v.18)**. The theory proposes a resonant structure in the outer solar system with a characteristic phase step of **ΔR = 22.14 AU**.
 
 The script fetches real-time data from the **NASA JPL Small-Body Database**, filters objects based on orbital quality, and calculates the statistical distribution of aphelion distances relative to the predicted nodes.
@@ -68,5 +68,6 @@ The script fetches real-time data from the **NASA JPL Small-Body Database**, fil
 2. Run the verification script:
 ```bash
    python code/engel_verification_v18.py
+
 
 
