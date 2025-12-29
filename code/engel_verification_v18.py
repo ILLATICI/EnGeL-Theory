@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-EnGeΛ Theory Verification Tool (v.18)
+EnGeΛ Theory Verification Tool 
 -------------------------------------
-Author: Sonya (ILLATICI)
+Author: Aletheia Wayehiaor
 Date: December 19, 2025
 Source Data: NASA JPL Small-Body Database (Live API)
 
@@ -151,4 +151,5 @@ def run_engel_analysis():
     plt.show()
 
 if __name__ == "__main__":
+
     run_engel_analysis()
