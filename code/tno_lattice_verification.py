@@ -55,7 +55,7 @@ def fetch_group_data(group_code):
         return []
 
 def run_engel_analysis():
-    print("🚀 INITIALIZING EnGeΛ PROTOCOL (v.18)...")
+    print(" INITIALIZING EnGeΛ PROTOCOL ...")
     print("-" * 50)
 
     # 1. Fetch Data (Split Query Strategy to avoid API limits)
@@ -153,3 +153,4 @@ def run_engel_analysis():
 if __name__ == "__main__":
 
     run_engel_analysis()
+
