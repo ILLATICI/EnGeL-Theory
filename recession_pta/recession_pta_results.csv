@@ -1,0 +1,12 @@
+parameter,value
+eta_nominal,0.32
+eta_sigma,0.05
+K_real,0.46
+T_PTA_observed,8.0
+T_PTA_predicted_mean,8.654416969123407
+T_PTA_predicted_std,1.428033564048868
+harmonic_ratio_mean,2.204193363066837
+harmonic_ratio_std,0.3411867793549988
+optimal_eta,0.3338709677419355
+phase_lag,0.0
+correlation,1.0
