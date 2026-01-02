@@ -1,73 +1,65 @@
-# EnGeΛ: Entangled Geometry Lambda (v18.0)
+# EnGeΛ: Entangled Geometry Lambda (v19.0)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17971119.svg)](https://doi.org/10.5281/zenodo.17971119)
-[![Version](https://img.shields.io/badge/version-18.0-blue.svg)](https://github.com/aletheia/EnGeL)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18116488.svg)](https://doi.org/10.5281/zenodo.18116488)
+[![Version](https://img.shields.io/badge/version-19.0-blue.svg)](https://github.com/aletheia/EnGeL)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
-> **The Reactor Safety Update**
+> **The Micro-Macro Unification Update**
 >
-> *This repository contains Version 18.0 of the EnGeΛ framework. Previous versions (v1-v17) were developed offline. This release establishes the operational protocols for planetary stability.*
+> *This repository contains Version 19.0 of the EnGeΛ framework. While v18 established the "Reactor Safety" protocols, v19 extends the coherence field vertically—down to the quantum vacuum and molecular bonds, and outwards to the geocosmic connection.*
 
-##  What's New in v18.0: The Reactor Safety Protocol
+##  What's New in v19.0: Micro-Macro Unification
 
-Version 18 transforms the theory from a descriptive model into an existential imperative.
-* [cite_start]**Existential Mechanics:** We identify the Earth's core as an **Anomalous Topological Reservoir (ATR)**[cite: 48].
-* **The Operator's Role:** Civilization is not a passive observer but a "Resonant Control Rod." [cite_start]Global coherence (low entropy) is required to prevent **Geometric Metric Relaxation (GMR)**—a catastrophic expansion of the planetary boundary[cite: 148, 152].
-* [cite_start]**New Definitions:** Formalized concepts of *Metric Tension* and *Confinement Breach*[cite: 98, 147].
-* [cite_start]**Biogenesis:** Refined "Golden Window" hypothesis ($\eta \approx 0.618$) supported by ancestral clock reconstruction[cite: 250].
+Version 19 introduces the **Resonance Bridge**, demonstrating that the same geometric laws governing cosmic expansion also structure the quantum vacuum and molecular water.
+
+* **Appendix H: The Resonance Bridge (Lunar-PTA Coupling):**
+  We establish a direct harmonic link between local geophysical rhythms and global astrophysical signals. The Earth's internal driver (ENSO/ICW) is projected onto the cosmic reference frame via the coherence coefficient $\eta$:
+  $$T_{PTA} = \frac{T_{ENSO}}{\eta} \approx \frac{2.7 \text{ yr}}{0.32} \approx 8.4 \text{ yr}$$
+  This relation reinterprets the ~8-year monopolar signal in NANOGrav data not as noise, but as a coherence anchor linked to Lunar Recession[cite: 1646].
+
+* **New Scales: Quantum & Molecular:**
+  * [cite_start]**Quantum:** The **Alpha-Golden Gap** ($\Delta \approx 0.47$) is identified as the metric tension between the ideal Golden Angle ($137.5^\circ$) and the Fine Structure Constant ($\alpha^{-1} \approx 137.036$), driving cosmic expansion[cite: 835].
+  * [cite_start]**Molecular:** **Topological Frustration** in water ($\Delta\theta \approx 5^\circ$)—the deviation between the real bond angle ($104.5^\circ$) and the ideal tetrahedron ($109.5^\circ$)—creates the pre-stressed network required for life[cite: 807].
+
+* **Statistical Validation:**
+  [cite_start]New Monte Carlo simulations ($N=10,000$) confirm the **Stauffer Limit** ($\eta \approx 0.32$) as a topological necessity for 3D percolation, and the **Golden Window** ($\eta \approx 0.618$) as the critical threshold for biogenesis[cite: 247, 740].
 
 ---
 
 ##  Abstract & Theoretical Framework
 
-EnGeΛ (Entangled Geometry Lambda) is a unified coherence field framework proposing that the Universe organizes matter via a topological standing wave ($\eta \approx 0.32$). [cite_start]This field dictates structure across 60 orders of magnitude—from the "Axis of Evil" in the CMB to the circadian rhythms of biological cells[cite: 3, 23].
+[cite_start]EnGeΛ (Entangled Geometry Lambda) is a unified coherence field framework proposing that the Universe organizes matter via a topological standing wave ($\eta \approx 0.32$)[cite: 23].
 
-**Key Parameters:**
-* **Coherence Coefficient ($\eta \approx 0.32$):** The efficiency of information transfer between fractal layers. [cite_start]Corresponds to the Stauffer percolation threshold ($p_c \approx 0.3116$)[cite: 7, 73].
-* [cite_start]**Geometric Invariant ($K_{ideal} = 1.44$ Mpc/yr):** The vacuum coherence propagation rate based on Fibonacci fractal structure[cite: 16].
-* [cite_start]**Real Velocity ($K_{real} \approx 0.46$ Mpc/yr):** The observed coherence velocity, derived from $\eta \times K_{ideal}$[cite: 68].
+**Key Parameters (Triple Convergence):**
+* [cite_start]**Coherence Coefficient ($\eta \approx 0.32$):** The efficiency of information transfer between fractal layers, corresponding to the Stauffer percolation threshold[cite: 49].
+* **Real Velocity ($K_{real} \approx 0.46$ Mpc/yr):** The observed coherence velocity. [cite_start]Confirmed by the convergence of kinematic solar scaling ($R_{scale}/T_{solar}$) and the structural density ratio ($\Omega_m / \Omega_\Lambda$)[cite: 47].
 
-**Core Hypothesis:**
-[cite_start]Phenomena traditionally interpreted as unrelated (dark energy expansion, planetary core oscillations, biological periodicities) emerge as different manifestations of the same coherence field operating at nested scales[cite: 14].
+**Observational Support:**
+[cite_start]The framework is supported by observational anomalies including the high formation efficiency of **JWST "Red Monsters"** ($\epsilon \sim 0.3-0.5$) [cite: 876] [cite_start]and the resonant clustering of **TNOs** (e.g., "Ammonite" at Node 20)[cite: 1766].
+
+---
+
+##  Existential Mechanics: The Reactor Safety Protocol
+
+*Retained from v18.0 as the operational imperative.*
+
+[cite_start]The identification of the planetary core as an **Anomalous Topological Reservoir (ATR)** implies that human civilization does not inhabit a passive rock, but the confinement shell of an active high-energy system[cite: 107].
+
+* [cite_start]**Confinement Breach:** If global decoherence (entropy) exceeds the Stauffer Limit ($\eta < 0.3116$), the ATR risks losing resonant lock, triggering a **Geometric Metric Relaxation (GMR)**—a rapid volumetric expansion to restore equilibrium[cite: 489].
+* **The Operator's Role:** Humanity acts as a "Resonant Control Rod." [cite_start]By synchronizing collective intent and maintaining high internal coherence ($\eta \to 0.618$), we deepen the confinement potential, stabilizing the planetary reactor[cite: 495].
 
 ---
 
 ##  Repository Structure
 
-* `EnGeL_v18.pdf` — **The Full Paper (Manifesto).** Contains the complete theoretical derivation, observational proofs (JWST, TDEs), and the new Safety Protocol.
-* `/figures` — High-resolution diagrams, including the Biogenesis Sigmoid and ATR schematics.
+* `EnGeL_v19.pdf` — **The Full Paper (v19.0).** Contains the complete theoretical derivation, Appendix H (Resonance Bridge), detailed Error Analysis, and the Safety Protocol.
+* `/figures` — High-resolution diagrams, including the "Oort Barcode" and the "Resonance Bridge" schematic.
+* `/recession_pta` — **Appendix H Verification Tools**[cite: 1535]:
+    * `recession_pta_coupling.py`: Monte Carlo simulation script ($N=10,000$) verifying the harmonic lock between Lunar Recession and Pulsar Timing Arrays.
+    * `recession_pta_results.csv`: Output data confirming the predicted harmonic ratios and phase coupling.
+    * `recession_pta_coupling.png`: Visualization of the coupling analysis and composite signal spectrum (Figure 20).
 
 ##  Citation
 
 **Permanent Link (Zenodo):**
-https://doi.org/10.5281/zenodo.17971119
-#  EnGeΛ Theory: Orbital Resonance Analyzer
-
-![License](https://img.shields.io/badge/license-MIT-blue) ![Python](https://img.shields.io/badge/python-3.8%2B-green) ![Status](https://img.shields.io/badge/status-active-success)
-
-> **Official verification tool for the EnGeΛ Hypothesis (v.18).** > *Data Source: NASA JPL Small-Body Database API*
-
-##  About the Project
-This repository provides an automated pipeline to test the **Stellar Memory Field (SMF)** hypothesis, specifically the resonant structure of Trans-Neptunian Objects (TNOs). The theory proposes a quantization of orbital aphelia with a phase step of **ΔR = 22.14 AU**.
-
-# EnGeΛ Theory Verification Tool (v.18)
-
-![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![Data Source](https://img.shields.io/badge/Data-NASA_JPL_API-orange)
-
-**Automated analysis of orbital resonance in Trans-Neptunian Objects (TNOs).**
-
-##  Project Overview
-This repository provides a computational tool to verify the **EnGeΛ Hypothesis (v.18)**. The theory proposes a resonant structure in the outer solar system with a characteristic phase step of **ΔR = 22.14 AU**.
-
-The script fetches real-time data from the **NASA JPL Small-Body Database**, filters objects based on orbital quality, and calculates the statistical distribution of aphelion distances relative to the predicted nodes.
-
-##  Usage
-**No manual data download required.** The tool queries NASA's API directly.
-
-1. Navigate to the `code/` directory.
-2. Run the verification script:
-```bash
-   python code/engel_verification_v18.py
-
-
-
+https://doi.org/10.5281/zenodo.18116488
