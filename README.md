@@ -98,15 +98,14 @@ The identification of the planetary core as an **Anomalous Topological Reservoir
 
 ##  Citation
 
-```bibtex
-@article{wayehiaor2025engel,
-  title={EnGe$\Lambda$: Entangled Geometry $\Lambda$ — Topological Fractal Memory of the Universe},
-  author={Wayehiaor, Aletheia},
-  journal={Zenodo},
-  year={2025},
-  version={20.0},
-  doi={10.5281/zenodo.18141555}
-}
+EnGeΛ: Entangled Geometry Λ
+Topological Fractal Memory of the Universe
+AletheiaWayehiaor
+Independent Researcher
+Correspondence: aletheia.wayehiaor@gmail.com
+**Permanent Link (Zenodo):**
+DOI: 10.5281/zenodo.18141555
+ORCID: 0009-0006-7930-2168
 ```
 
 **Permanent Link (Zenodo):**
@@ -117,3 +116,4 @@ https://doi.org/10.5281/zenodo.18141555
 <p align="center">
   <i>We do not communicate through space; we co-create it.</i>
 </p>
+
