@@ -111,9 +111,10 @@ ORCID: 0009-0006-7930-2168
 **Permanent Link (Zenodo):**
 https://doi.org/10.5281/zenodo.18141555
 
----
+```
 
 <p align="center">
   <i>We do not communicate through space; we co-create it.</i>
 </p>
+
 
